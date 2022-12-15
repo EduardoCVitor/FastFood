@@ -1,3 +1,3 @@
 # FastFood
  
- Sistema de auto atendimento para lanchonete
+ Sistema de auto atendimento para lanchonete desenvolvido em Python
