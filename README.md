@@ -1,2 +1,3 @@
 # FastFood
- Sistema de auto atendimento
+ 
+ Sistema de auto atendimento para lanchonete
